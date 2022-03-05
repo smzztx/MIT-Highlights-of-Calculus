@@ -3,7 +3,6 @@
 令 $f(x)=\sin x$ ，则：
 $$
 \begin{aligned}
-\
 f'(x)&=\lim_{\Delta x \to 0}\frac{f(x+\Delta x)-f(x)}{\Delta x} \\[2ex]
 &=\lim_{\Delta x \to 0}\frac{\sin(x+\Delta x)-\sin x}{\Delta x} \\[2ex]
 &=\lim_{\Delta x \to 0}\frac{\sin x\cos\Delta x+\cos x\sin \Delta x-\sin x}{\Delta x} \\[2ex]
@@ -51,7 +50,6 @@ $$
 我们已经知道当 $\Delta x$ 趋于0时， $\frac{(\cos\Delta x-1)}{\Delta x}$ 的极限为0和 $\frac{\sin \Delta x}{\Delta x}$ 的极限为1，继续1小节中的求导：
 $$
 \begin{aligned}
-\
 f'(x)&=\sin x\lim_{\Delta x \to 0}\frac{(\cos\Delta x-1)}{\Delta x}+\cos x\lim_{\Delta x \to 0}\frac{\sin \Delta x}{\Delta x} \\[2ex]
 &=\sin x\cdot0+\cos x\cdot1 \\
 &=\cos x
@@ -63,7 +61,6 @@ $$
 同样，令 $f(x)=\cos x$ ，则：
 $$
 \begin{aligned}
-\
 f'(x)&=\lim_{\Delta x \to 0}\frac{f(x+\Delta x)-f(x)}{\Delta x} \\[2ex]
 &=\lim_{\Delta x \to 0}\frac{\cos(x+\Delta x)-\cos x}{\Delta x} \\[2ex]
 &=\lim_{\Delta x \to 0}\frac{\cos x\cos\Delta x-\sin x\sin \Delta x-\cos x}{\Delta x} \\[2ex]
