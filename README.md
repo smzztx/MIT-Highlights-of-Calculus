@@ -2,7 +2,7 @@
 之前看过Gilbert Strang教授的线性代数课程，感觉受益良多。但是之前都是把笔记记在本子上，不利于回看，后续有时间会慢慢整理成电子版，发布出来。下面是教授在本课程简介里说的：  
 > 大多数人学微积分只是想了解下重点，本课程就是以此为目的。Strang教授认为学习微积分的时候很容易在厚厚的课本和大量的习题中迷失方向，过分拘泥于细节，无法得到提纲挈领的认识，教授希望该课程能提供一种总览。
   
-我倒是觉得课程没有习题是比较坑的地方，这里放出[课程地址](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)和[B站搬运视频](https://www.bilibili.com/video/av3518650/?p=1)，课程地址里的书籍我只看了第一章，这里就不推荐了。可以配合 **《普林斯顿微积分读本》** 一起看。  
+我倒是觉得课程没有习题是比较坑的地方，这里放出[课程地址](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)和[B站搬运视频](https://www.bilibili.com/video/av3518650/?p=1)，课程地址里的书籍我只看了第一章，这里就不推荐了。倒是可以配合 **《普林斯顿微积分读本》** 一起看。  
 碎碎念：看完线代课程再看这个突然发现教授已经那么老了o(╥﹏╥)o，唉~~。  
 [github地址](https://github.com/smzztx/MIT-Highlights-of-Calculus)
 [CSDN目录地址]()
