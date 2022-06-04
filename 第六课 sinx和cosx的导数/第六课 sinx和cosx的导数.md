@@ -15,7 +15,7 @@ $$
 到这里就计算不下去了，我们需知道当 $\Delta x$ 趋于0时， $\frac{(\cos\Delta x-1)}{\Delta x}$ 的极限和 $\frac{\sin \Delta x}{\Delta x}$ 的极限。
   
 ## 2. 求 $\frac{\sin x}{x}$ 在0处的极限
-如下图所示， $OA=1$ ，$\angle AOB=x$ ， 则 $|AC|=\sin x$ ， $|DB|=\tan x$ 。
+如下图所示， $OA=1$ ，$\angle AOB=x$ ， 则 $|AC|=\sin x$ ， $|DB|=\tan x$ 。  
 ![](attachments/2sinx除以x在0处的极限.png)
 $$
 \because S_{\triangle OAB}<S_{扇形 OAB}<S_{\triangle ODB} \\[2ex]
