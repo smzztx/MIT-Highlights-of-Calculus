@@ -5,6 +5,7 @@
 我倒是觉得课程没有习题是比较坑的地方，这里放出[课程地址](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)和[B站搬运视频](https://www.bilibili.com/video/av3518650/?p=1)，课程地址里的书籍我只看了第一章，这里就不推荐了。倒是可以配合 **《普林斯顿微积分读本》** 和[图解普林斯顿微积分读本](https://zhuanlan.zhihu.com/p/31199228?ivk_sa=1024320u)一起看。  
 *碎碎念：看完线代课程再看这个突然发现教授已经那么老了o(╥﹏╥)o，唉~~。*  
 *PS：此时，已将《普林斯顿微积分读本》看了一遍，之前看完视频以为自己学的差不多了，再回头看，其实不过入了个门。做题时会发现自己连概念都没有理清。又转念一想，如果看个视频就能学会，是不是太草率了，该笔记能够起到抛砖引玉的作用也是极好的。——写于2022.06.04*  
+*PPS：在B站看了一半（高数上册）宋浩的视频，并做了[板书截图笔记](https://www.bilibili.com/read/cv18613048/?spm_id_from=333.999.0.0&jump_opus=1)，受益良多，对于我是少有的几个不会看困的数学视频。宋老师没讲到的部分可以看孔祥仁老师的，然后看完视频再做课后习题，基本问题不大。——写于2023.09.06*  
 [github地址](https://github.com/smzztx/MIT-Highlights-of-Calculus)  
 [CSDN目录地址](https://blog.csdn.net/shamozhizhoutx/article/details/125126766)  
   
